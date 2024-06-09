@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning @ pyhton and data analysis business analsis ..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me isaacdanmusa@gmail.com
-- {https://www.linkedin.com/in/isaac-danmusa}
+- (https://www.linkedin.com/in/isaac-danmusa)
 - 😄 Pronouns: he 
 - ⚡ Fun fact: project manager
 - 
